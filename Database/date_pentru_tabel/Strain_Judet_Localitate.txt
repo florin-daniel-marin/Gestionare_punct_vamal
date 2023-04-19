@@ -1,0 +1,165 @@
+USA
+Alabama, Montgomery
+Alaska, Juneau
+Arizona, Phoenix
+Arkanas, Little Rock
+California, Los Angeles
+Carolina de Nord, Raleigh
+Carolina de Sud, Columbia
+Colorado, Denver
+Georgia, Atlanta
+Idaho, Boise
+Illinois, Springfield
+Kansas, Topeka
+Louisiana, Baton Rouge
+Massachusetts, Boston
+Montana, Helena
+New York, New York
+Texas, Austin
+.
+
+EUE/GRC
+Evia, Chalkis
+Euritania, Karpenisi
+Focida, Amphissa
+Ftiotida, Lamia
+Halkidiki, Polygyros
+Imathia, Veria
+Kilkis, Kilkis
+Pella, Edessa
+Pieria, Katerini
+Serres, Serres
+Salonic, Salonic
+Heraklion, Heraklion
+Cania, Chania
+Drama, Drama
+Evros, Alexandroupolis
+Kavala, Kavala
+Rodopi, Komotini
+Arta, Arta
+Ioannina, Ioannina
+Corfu, Corfu
+Cefalonia, Argostoli
+Ciclade, Ermoupoli
+Kastoria, Kastoria
+Kozani, Kozani
+.
+
+EUE/BGR
+Blagoevgrad, Blagoevgrad
+Burgas, Burgas
+Dobrici, Dobrici
+Plevna, Plevna
+Plovdiv, Plovdiv
+Ruse, Ruse
+Silistra, Silistra
+Sofia-stolița, Sofia
+Varna, Varna
+Vidin, Belogradicik
+.
+
+EUE/ITA
+Abruzzo, L Aquila
+Puglia, Bari
+Campania, Napoli
+Emilia-Romagna, Bologna
+Lazio, Roma
+Liguria, Genova
+Lombardia, Milano
+Piemont, Torino
+Toscana, Florenta
+Umbria, Perugia
+Veneto, Venetia
+.
+
+EUE/ESP
+Almería, El Ejido
+Cádiz, Cádiz
+Madrid, Madrid
+Barcelona, Barcelona
+Valencia, Valencia
+Aragon, Zaragoza
+Murcia, Murcia
+.
+
+GBR
+England, London
+England, Birmingham
+Scotland, Glasgow
+England, Liverpool
+Scotland, Edinburgh
+.
+
+EUE/DEU
+Berlin, Berlin
+Hamburg, Hamburg
+Bavaria, München
+.
+
+EUE/FRA
+Alpes-Maritimes, Nisa
+Paris, Paris
+Yvelines, Versailles
+Rhône, Lyon
+.
+
+EUE/HUN
+Bács-Kiskun, Kecskemét
+Baranya, Pécs
+Békés, Békéscsaba
+Hajdú-Bihar, Debrecen
+Pesta, Budapesta
+Csongrád, Szeged
+.
+
+UKR
+Donețk, Amvrosiivka
+Luhansk, Artemivsk
+Odesa, Kotovsk
+Transcarpatia, Bereg
+Kiev, Kiev
+Cernăuți, Cernăuți
+.
+
+RUS
+Moscova, Moscova
+Sankt Petersburg, Sankt Petersburg
+Novosibirsk, Novosibirsk
+.
+
+MDA
+Bălți, Bălți
+Cahul, Cahul
+Chișinău, Chișinău
+Edineț, Edineț
+Orhei, Orhei
+Taraclia, Taraclia
+.
+
+EUE/NOR
+Østlandet, Oslo
+.
+
+EUE/POL
+Małopolskie, Kraków
+.
+
+JPN
+Tokyo, Tokyo
+.
+
+CHN
+Beijing, Beijing
+.
+
+TUR
+Istanbul, Istanbul
+.
+
+ISR
+Jerusalem, Jerusalem
+Tel Aviv, Tel Aviv-Yafo
+.
+
+
+

@@ -1,0 +1,428 @@
+USA
+James, M
+Robert, M
+John, M
+Michael, M
+David, M
+William, M
+Richard, M
+Joseph, M
+Thomas, M
+Charles, M
+Daniel, M
+Matthew, M
+Mark, M
+Mary, F
+Patricia, F
+Jennifer, F
+Linda, F
+Elizabeth, F
+Barbara, F
+Susan, F
+Jessica, F
+Sarah, F
+Karen, F
+Lisa, F
+Sandra, F
+.
+
+HELLENIC
+Georgios, M
+Ioannis, M
+Yiannis, M
+Dimitris, M
+Constantinos, M
+Costas, M
+Nikolaos, M
+Panagiotis, M
+Christos, M
+Maria, F
+Eleni, F
+Aikaterini, F
+Vasiliki, F
+Sophia, F
+Angeliki, F
+Dimitra, F
+Konstantina, F
+Paraskevi, F
+.
+
+BULGARIA
+Ivan, M
+Vasil, M
+Stefan, M
+Georgi, M
+Nikola, M
+Apostol, M
+Emil, M
+Martin, M
+Dragomir, M
+Gavrail, M
+Kosta, M
+Mitre, M
+Sonya, F
+Michaela, F
+Tsvetoslava, F
+Irina, F
+Boriana, F
+Tatiana, F
+Svetlana, F
+Kristina, F
+Dobromira, F
+Maria, F
+.
+
+ITALIANA
+Luca, M
+Enzo, M
+Lorenzo, M
+Gianni, M
+Nico, M
+Antonio, M
+Tony, M
+Mario, M
+Roberto, M
+Leonardo, M
+Giovanni, M
+Luigi, M
+Gianna, F
+Emilia, F
+Valentina, F
+Sienna, F
+Capri, F
+Donna, F
+Florence, F
+Michele, F
+Gina, F
+Adriana, F
+Lucia, F
+Marcela, F
+Maria, F
+Vincenza, F
+.
+
+ESPAÑOLA
+Martin, M
+Hugo, M
+Mateo, M
+Leo, M
+Lucas, M
+Manuel, M
+Daniel, M
+Alejandro, M
+Pablo, M
+Alvaro, M
+Mario, M
+Diego, M
+Bruno, M
+Oliver, M
+Lucia, F
+Martina, F
+Sofia, F
+Maria, F
+Valeria, F
+Julia, F
+Paula, F
+Emma, F
+Daniela, F
+Carla, F
+Alma, F
+Olivia, F
+Sara, F
+Vega, F
+.
+
+BRITISH CITIZEN
+Noah, M
+Oliver, M
+George, M
+Arthur, M
+Leo, M
+Harry, M
+Oscar, M
+Henry, M
+Theodore, M
+Freddie, M
+Jack, M
+Charlie, M
+Jacob, M
+Wiliam, M
+Isaac, M
+Tommy, M
+Sebastian, M
+Daniel, M
+Samuel, M
+David, M
+Olivia, F
+Amelia, F
+Mary, F
+Ava, F
+Ivy, F
+Freya, F
+Lily, F
+Rosie, F
+Sophia, F
+Isabella, F
+Grace, F
+Daisy, F
+Sienna, F
+Elsie, F
+Violet, F
+Jessica, F
+.
+
+DEUTSCH
+Leon, M
+Ben, M
+Paul, M
+Henry, M
+Jonas, M
+Liam, M
+Moritz, M
+Oskar, M
+Alexander, M
+Raphael, M
+Erik, M
+Niklas, M
+Hannes, M
+Ludwig, M
+Luke, M
+Hannah, F
+Mila, F
+Ella, F
+Lea, F
+Marie, F
+Clara, F
+Leni, F
+Leonie, F
+Emily, F
+Anna, F
+Frieda, F
+Luisa, F
+Johanna, F
+Paula, F
+Helena, F
+Martha, F
+Paulina, F
+.
+
+FRANÇAISE
+Aloïs, M
+Mathéo, M
+Raphaël, M
+Éliott, M
+Lyam, M
+Gabriel, M
+Théo, M
+Geoffrey, M
+Alexandre, M
+Amédée, M
+Émeric, M
+André, M
+Antoine, M
+Eugène, M
+Charles, M
+Denis, M
+Félix, M
+Elea, F
+Lya, F
+Elyna, F
+Anna, F
+Lili, F
+Noemie, F
+Sophia, F
+Julia, F
+Louise, F
+Ella, F
+.
+
+HUNGARIAN
+Zoltan, M
+Laszlo, M
+Matyas, M
+Gabor, M
+Attila, M
+István, M
+Bela, M
+Széchenyi, M
+Ferenc, M
+Lilla, F
+Ilona, F
+Zita, F
+Mariska, F
+Dorina, F
+Ivett, F
+Guyla, F
+Kitti, F
+Katalin, F
+.
+
+UKRAINE
+Alikhan, M
+Andriy, M
+Aleksander, M
+Antin, M
+Bodashka, M
+Bohdan, M
+Borysko, M
+Danilo, M
+Dymtrus, M
+Georgiy, M
+Krystiyan, M
+Kostyantyn, M
+Kirill, M
+Lyaksandro, M
+Petro, M
+Pavlo, M
+Vasyl, M
+Volodymyr, M
+Alina, F
+Alona, F
+Anastasiya, F
+Bohdana, F
+Daniela, F
+Daryna, F
+Dasha, F
+Irina, F
+Ivanna, F
+Katrya, F
+Nataliya, F
+Roksolana, F
+Veronika, F
+Xristina, F
+.
+
+RUSSIAN FEDERATION
+Tyoma, M
+Sasha, M
+Roman, M
+Vanya, M
+Deniska, M
+Lyosha, M
+Seryozha, M
+Kostya, M
+Slava, M
+Tolya, M
+Olezhek, M
+Sonya, F
+Nastya, F
+Vika, F
+Xenia, F
+Arisha, F
+Elizaveta, F
+Yelena, F
+Daria, F
+Svetlana, F
+Maria, F
+Tatiana, F
+Ludmila, F
+.
+
+NORWEGIAN
+Johannes, M
+Peter, M
+Lars, M
+Svein, M
+Kjell, M
+Harald, M
+Andreas, M
+Erik, M
+Christian, M
+Anne, F
+Inger, F
+Karin, F
+Marghit, F
+Astrid, F
+Solveig, F
+Marianne, F
+Maria, F
+Kristin, F
+Benedicta, F
+.
+
+POLISH
+Julian, M
+Gabriel, M
+Aleksander, M
+Jakub, M
+Mikolay, M
+Szymon, M
+Filip, M
+Zuzanna, F
+Laura, F
+Oliwia, F
+Lena, F
+Pola, F
+Maja, F
+Maria, F
+.
+
+JAPAN
+Asahi, M
+Haru, M
+Akira, M
+Haruto, M
+Hinata, M
+Akio, M
+Botan, M
+Kiyoshi, M
+Ahmya, F
+Fumiko, F
+Katana, F
+Midori, F
+Rika, F
+Suki, F
+.
+
+CHINESE
+Daming, M
+Chén, M
+Zhōu, M
+Dong, M
+Fang, F
+Yan, F
+Xiu, F
+Xiang, F
+.
+
+TUR
+Yusuf, M
+Alparslan, M
+Mirac, M
+Omer, M
+Eymen, M
+Emre, M
+Mustafa, M
+Aras, M
+Ali, M
+Ahmet, M
+Mehmet, M
+Zeynep, F
+Elif, F
+Asel, F
+Defne, F
+Nehir, F
+Azra, F
+Ecrin, F
+Lina, F
+.
+
+ISRAELI
+David, M
+Lavi, M
+Ariel, M
+Yosef, M
+Noam, M
+Shimon, M
+Shlomo, M
+Tamar, F
+Maya, F
+Abigail, F
+Adele, F
+Esther, F
+Ruth, F
+Yuval, F
+Yaheli, F
+Hila, F
+Tohar, F
+.

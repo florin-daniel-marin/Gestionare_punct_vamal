@@ -1,0 +1,328 @@
+a {
+    color:#33348e;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+nav {
+    background-color:#33348e;
+    font-family:arial,times,serif;
+    font-size:.875em;
+    overflow:hidden;
+    padding-left:2%;
+}
+nav ul {
+    padding:0;
+    margin:0;
+}
+nav ul li {
+    list-style-type:none;
+    float:left;
+    position:relative;
+    padding:10;
+    margin:0;
+}
+nav ul li a {
+    display:block;
+    color:#fff;
+    padding:.500em .625em;
+    margin:0;
+}
+nav ul li a:hover,
+nav ul li a:focus {
+    background-color:#fff;
+    color:#33348e;
+    text-decoration:underline;
+    font-weight:normal;
+}
+
+main{
+	background-color: #ffffff;
+	font-size: large;
+	font-family:arial,times,serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+input[type="text"]{
+	width: 308px;
+	height: 50px;
+	border: 1px solid #dee0e4;
+	margin-bottom: 4px;
+	padding: 0 0px;
+}
+
+.home{
+    position: relative;
+	display:flex;
+	flex-direction: column;
+	margin:0;
+    font-family:arial,times,serif;
+	padding-bottom: 0%;
+}
+
+header{
+	position: relative;
+	display:flex;
+	padding-bottom: 0%;
+	margin:0;
+	background-color: #33348e;
+}
+
+figure{
+	background-color: #bec4db;
+	position: relative;
+	margin:0;
+}
+.steag{
+	position: relative;
+	bottom:0px;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.h-box1{
+	position: absolute;
+	background-color: #33348e;
+	width: 100%;
+	height: 4%;
+	bottom: 0px;
+}
+.stema1{
+	position: relative;
+	top:20px;
+	right: 40px;
+
+}
+.h-box{
+	height: 60%;
+	width: 300px;
+	position: absolute;
+	bottom: 4px;
+    left: 00px;
+	background-color: #bec4dbc0;
+	font-size:large;
+	padding-left: 20px;
+}
+.selectmain {
+	margin: 0 auto;
+	text-align: left;
+	border: 1px solid #dee0e4;
+	width: 310px;
+	height: 50px;
+	margin-bottom: 4px;
+
+}
+.btn {
+	width: 150px;
+	padding: 15px;
+    margin-top: 10px;
+	background-color: #33348e;
+	border: 0;
+	cursor: pointer;
+	font-weight: bold;
+	color: #ffffff;
+	transition: background-color 0.2s;
+}
+
+
+.btn2 {
+	width: 80px;
+	height: 40px;
+	border-radius: 6px;
+	background-color: #33348e;
+	border: 2;
+	cursor: pointer;
+	font-weight: bold;
+	color: #ffffff;
+	transition: background-color 0.2s;
+}
+
+.btn4 {
+	width: 30px;
+	height: 20px;
+	border-radius: 6px;
+	background-color: #338e59;
+	border: 2;
+	cursor: pointer;
+	font-weight: bold;
+	color: #ffffff;
+	transition: background-color 0.8s;
+}
+
+.btn3 {
+	width: 80px;
+	height: 30px;
+	border-radius: 4px;
+	background-color: #6d6d6d;
+	border: 3;
+	cursor: pointer;
+	font-weight: bold;
+	color: #ffffff;
+	transition: background-color 0.2s;
+}
+.btn3:hover,
+.btn3:focus {
+    background-color:#fff;
+    color:#000000;
+    text-decoration:underline;
+    font-weight:normal;
+}
+
+
+.btn5 {
+	width: 150px;
+	height: 50px;
+	border-radius: 2px;
+	background-color: #aeadad;
+	border: 3;
+	cursor: pointer;
+	font-weight: bold;
+	color: #ffffff;
+	transition: background-color 0.2s;
+}
+
+.btn5:hover,
+.btn5:focus {
+    background-color:#fff;
+    color:#000000;
+    text-decoration:underline;
+    font-weight:normal;
+}
+
+
+/*TABEL*/
+table thead tr th {
+	text-align: left;
+}
+
+.wideTable table {
+	min-width: 100%;
+}
+
+.leftAlign th,
+.leftAlign td {
+	text-align: left !important;  
+}
+/* --------------------------------------------   */
+
+
+/* --------------------------------------------   */
+/* 1st cell short text, 2nd th bigger text        */
+/* --------------------------------------------   */
+.fixedFc thead tr th:first-child,
+.fixedFc tbody tr td:first-child {
+	width: 8em;
+	min-width: 8em;
+	max-width: 8em;
+	word-break: break-all;
+}
+.fixedFc th:nth-child(2) {
+    padding: 9px 20px;
+    font-size: 21px;
+}
+.fixedFc td:nth-child(2),
+.fixedFc tr > td:last-of-type { 
+	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+  	max-width: 17em;
+}
+/* --------------------------------------------   */
+
+
+/* --------------------------------------------   */
+/* 1st cell big text, 2nd small.                  */
+/* --------------------------------------------   */
+.wideFc td:nth-child(1),
+.wideFc tr > td:last-of-type { 
+	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+  	max-width: 36em;
+}
+/* --------------------------------------------   */
+
+/* --------------------------------------------   */
+/* If you wanna change table margin, do it here   */
+/* --------------------------------------------   */
+.customMargin table {
+	margin: 25px 0;
+}
+
+
+.academia table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: auto;
+	/*max-width: 100%;*/
+	border-top: 2.27px solid black;
+	border-bottom: 2.27px solid black;
+	overflow-x: auto;	
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.academia th,
+.academia td {
+	border: 0 none;
+	padding: 0.51rem;
+	line-height: 1.1;
+}
+.academia table > tbody > tr:first-child > td,
+.academia table > tbody > tr:first-child > th {
+	border-top: 1.36px solid black;
+}
+.academia table > tbody > tr:last-child > td,
+.academia table > tbody > tr:last-child > th {
+	border-bottom: 1.36px solid black;
+}
+.academia thead th {
+    background-color: rgb(102, 102, 102) !important;
+	color: #efefef;
+    font-weight: 700;    
+    padding: 8px 9px 5px 9px;
+}
+.academia tr:nth-child(even) {
+      background-color: #ebecf1 ;
+}
+.academia tbody tr:hover td {
+	background-color: #f5f1da;
+}
+
+
+
+.flex {
+	background: #6ab6d8;
+	padding: 10px;
+	margin-bottom: 50px;
+	border: 3px solid #2e86bb;
+	color: white;
+	font-size: 17px;
+	text-align: center;
+	position: relative;
+  }
+
+  .flex1 {
+	flex-basis: 100px ;
+  }
+  
+  .flex2 {
+	flex-basis: 300px;
+  }
+  
+  .flex3 {
+	flex-basis: min-content;
+  }
+
+/* These selectors style the active page's menu */
+#home .home figure,
+#Mainpage .Mainpage a,
+#Interogari .Interogari a,
+#Verificari .Verificari a,
+#Raport .Raport a,
+#contact .contact a {
+    color:#33348e;
+    background-color:#fff;
+    pointer-events:none;
+}
+

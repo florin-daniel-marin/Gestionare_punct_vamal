@@ -1,0 +1,120 @@
+table thead tr th {
+	text-align: left;
+}
+
+.wideTable table {
+	min-width: 100%;
+}
+
+.leftAlign th,
+.leftAlign td {
+	text-align: left !important;  
+}
+/* --------------------------------------------   */
+
+
+/* --------------------------------------------   */
+/* 1st cell short text, 2nd th bigger text        */
+/* --------------------------------------------   */
+.fixedFc thead tr th:first-child,
+.fixedFc tbody tr td:first-child {
+	width: 8em;
+	min-width: 8em;
+	max-width: 8em;
+	word-break: break-all;
+}
+.fixedFc th:nth-child(2) {
+    padding: 9px 20px;
+    font-size: 21px;
+}
+.fixedFc td:nth-child(2),
+.fixedFc tr > td:last-of-type { 
+	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+  	max-width: 17em;
+}
+/* --------------------------------------------   */
+
+
+/* --------------------------------------------   */
+/* 1st cell big text, 2nd small.                  */
+/* --------------------------------------------   */
+.wideFc td:nth-child(1),
+.wideFc tr > td:last-of-type { 
+	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+  	max-width: 36em;
+}
+/* --------------------------------------------   */
+
+/* --------------------------------------------   */
+/* If you wanna change table margin, do it here   */
+/* --------------------------------------------   */
+.customMargin table {
+	margin: 25px 0;
+}
+
+
+.academia table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: auto;
+	/*max-width: 100%;*/
+	border-top: 2.27px solid black;
+	border-bottom: 2.27px solid black;
+	overflow-x: auto;	
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.academia th,
+.academia td {
+	border: 0 none;
+	padding: 0.51rem;
+	line-height: 1.1;
+}
+.academia table > tbody > tr:first-child > td,
+.academia table > tbody > tr:first-child > th {
+	border-top: 1.36px solid black;
+}
+.academia table > tbody > tr:last-child > td,
+.academia table > tbody > tr:last-child > th {
+	border-bottom: 1.36px solid black;
+}
+.academia thead th {
+    background-color: rgb(102, 102, 102) !important;
+	color: #efefef;
+    font-weight: 700;    
+    padding: 8px 9px 5px 9px;
+}
+.academia tr:nth-child(even) {
+      background-color: #ebecf1 ;
+}
+.academia tbody tr:hover td {
+	background-color: #f5f1da;
+}
+
+
+
+.flex {
+	background: #6ab6d8;
+	padding: 10px;
+	margin-bottom: 50px;
+	border: 3px solid #2e86bb;
+	color: white;
+	font-size: 17px;
+	text-align: center;
+	position: relative;
+  }
+
+  .flex1 {
+	flex-basis: 100px ;
+  }
+  
+  .flex2 {
+	flex-basis: 300px;
+  }
+  
+  .flex3 {
+	flex-basis: min-content;
+  }
