@@ -39,28 +39,28 @@
       - Șef de tură
       - Administrator
 ##### Funcții:
-    **Prelucrare din baza de date:**
-    - Creează liste și rapoarte:
-        -Arhivă toate persoanele din tranzitul vamal
-        -Listă persoane care au intrat în țară
-        -Listă persoane care au ieșit din țară
-        -Listă persoane care au primit permisiune 
-        -Listă persoane care nu au primit permisiune
-        -Listă persoane din tranzitul vamal care sunt urmăriți de INTERPOL
-        - Listă toți ofițerii vamali angajați
-        - Listă sesiuni active
-        
     - Vizualizează toate datele din baza de date
     - Căutare avansată în baza de date
     
-    **Despre traficul vamal:**
+    ** Prelucrare din baza de date: **
+    - Creează liste și rapoarte în HTML
+        - Arhivă toate persoanele din tranzitul vamal
+        - Listă persoane care au intrat în țară
+        - Listă persoane care au ieșit din țară
+        - Listă persoane care au primit permisiune 
+        - Listă persoane care nu au primit permisiune
+        - Listă persoane din tranzitul vamal care sunt urmăriți de INTERPOL
+        - Listă toți ofițerii vamali angajați
+        - Listă sesiuni active
+        
+    ** Despre traficul vamal: **
     - Modifică sau șterge date despre persoanele din baza de date
     - Modifică sau șterge rapoarte despre verificări
     
-    **Despre angajați:**
+    ** Despre angajați: **
     - Modifică sau șterge ofițerii vamali angajați
     
-    **Despre sesiuni:**
+    ** Despre sesiuni: **
     - Modifică parola utilizatorilor
     - Deconectează utilizator conectat
     - Log in și log out
