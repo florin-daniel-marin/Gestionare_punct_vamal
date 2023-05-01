@@ -116,3 +116,5 @@ In Sesiune: update_parola.php si toate detaliile salvate de sesiunea curenta
 ## How to use
 **Dependencies**  
 1. Install **XAMPP with PHP version 8.1.x** from https://www.apachefriends.org/download.html 
+
+https://www.customs.ro/assets/pdf/Nona//LISTA_FUNCTIILOR_LA_NIVELUL_AVR_LA_30.09_.2022_.pdf
