@@ -7,8 +7,7 @@
   
   Programat în PHP și Microsoft SQL Server 2014, iar partea de Front End în AJAX, Jquery, CSS.  
   
-## Functionalități
-### Descriere
+## Descriere temă
   La un punct vamal din țară, personalul vamal trebuie să introducă și să contabilizeze date despre persoanele care au intrat/ ieșit din țară. Aplicația este folosită de inspectori pentru a introduce în baza de date a vămii datele celor controlați. Datoriă securității naționale, în ceea ce privește controlul traficului la intrarea în țară, datele introduse la verificarea tranzistanților, nu pot fi modificate decât în condiții absolut speciale. Ofițerii vamali cu grad superior, au acces la contul de admin, cu funcționalitate mult mai largă în baza de date.  
   
   Programul ofițeriilor este împărțit pe ture de câte 8 ore, iar la logare pe site se introduc datele inspectorului vamal: gradul, numele, parola. Pentru începerea programului de muncă, este nevoie să se introducă gradul și numele celor doi controlori vamali de tură (dacă există).
@@ -19,7 +18,7 @@
   
   Datele preluate in baza de date, structura bazei de date, utilizatorii și structura proiectului sunt rezultatul reimaginării aplicației folosită de o vamă. Nu reflectă nimic din sistemul folosit de Autoritatea Vamală Română și nici din structura organizatorică a acesteia. Proiectul simplifică mult personalul vamal, la cazuri simple de înțeles și intuitive. Funcțiile aplicației sunt simplificate, astfel încât să fie vizibile doar funcționalitățiile ce pun în valoare tema proiectului. Aplicația poate fi îmbunătățită cu metode de securitate și protejare a datelor (mai multe la finalul prezentării) și adăugarea de tabele, pagini web și câmpuri noi.
 
-### Structură
+## Structură
    În continuare descriu structura aplicației pentru diferitele tipuri de utilizatori, care asigură necesitățile și setează limite pentru personalul punctului vamal, pentru conducerea punctului vamal, inspectori, controlori, administratori de rețea.  
    
    **Conducerea** punctului vamal - **șeful biroului** Direcției Regionale Vamale, **șef adjunct**, **șef de tură**, **inspector vamal superior** și **administratorul de rețea** - au acces la toate funcțiile peste baza de date și informații despre rețeaua de calculatoare și despre angajații punctului vamal. 
