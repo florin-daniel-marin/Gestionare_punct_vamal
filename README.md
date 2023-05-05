@@ -1,5 +1,11 @@
 # Gestionare_punct_vamal
-##
+Pentru testarea aplicației accesează link-ul din dreapta.  
+Pentru inregistrare pe cont admin sau user:
+```
+Grad: Administrator
+Nume și prenume: admin
+Parola: 1
+```
 ## Despre website
   Aplicație Web ce simulează gestionarea unui punct vamal (aici: Isaccea) cu două tipuri de utilizatori: Inspector si Admin. Proiect realizat la materia Baze de date, pentru testarea cunoștiințelor de limbaj SQL. Structura ierarhică a Directiei Generale a Vămilor este simplificată pentru acest proiect și corespunde foarte puțin situației reale de conducere și control vamal. 
   
