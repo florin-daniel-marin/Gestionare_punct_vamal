@@ -3,7 +3,7 @@ Pentru testarea aplicației accesează link-ul din dreapta.
 Pentru inregistrare pe cont admin sau user:
 ```
 Grad: Administrator
-Nume și prenume: admin
+Nume și prenume: admin retea
 Parola: 1
 ```
 ## Despre website
